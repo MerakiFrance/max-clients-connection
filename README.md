@@ -82,13 +82,3 @@ It periodically queries the Meraki Dashboard API and identifies the **peak clien
 | 8 hours   | 10 min    | 48                    | ~15–20 seconds              |
 
 ---
-
-## 📜 License
-
-This project is released under the **MIT License**.
-
----
-
-## ✍️ Author
-
-Developed by **C. Bellier** for analyzing client connection peaks using the **Cisco Meraki Dashboard API**.
